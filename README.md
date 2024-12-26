@@ -20,4 +20,4 @@ Nosso objetivo é oferecer uma experiência personalizada, combinando atualizaç
 O **Levande News** está comprometido em ser uma ponte entre o mundo e o indivíduo, garantindo que informações de qualidade estejam ao alcance de todos, com um olhar especial para as necessidades locais.
 
 # Regiões
-- [Campinas - SP](/latam/brazil/sao-paulo/campinas/)
+- [Campinas - SP](./latam/brazil/sao-paulo/campinas/)
