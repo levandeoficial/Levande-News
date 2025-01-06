@@ -4,3 +4,4 @@
 - [ Noticias do dia 03](./03.md)
 - [ Noticias do dia 04](./04.md)
 - [ Noticias do dia 05](./05.md)
+- [ Noticias do dia 06](./06.md)
